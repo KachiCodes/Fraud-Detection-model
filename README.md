@@ -1,2 +1,4 @@
 # Fraud-Detection-model
 This is a machine learning regression model to detect cases of fraudulent credit card transactions. 
+Anually, a lot of companies lose a lot of revenue as well as loyal customers to cases of fradulent card transactions. When Financial Analysts analyze and Data Scientist write algorithms to detect cases of fraud detection, they over focus on cases where the algorithm detects and confirms a fraudulent transaction. However, there are rare cases where the algorithm detects a case of fraudulent transaction but it fails to confirm or when an algorithm fails to detect a fraudulent transaction and the transaction is confirmed. 
+The objective of this machine learning model is to dectect confirmed cases of fraud detection as well as bring to light rare cases which might be a potential risk to a company or organization seeking the skills of a data scientist. 
